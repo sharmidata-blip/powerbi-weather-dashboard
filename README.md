@@ -1,4 +1,4 @@
-# powerbi-weather-dashboard
+# PowerBI-Weather-Dashboard
 # 🌦️ Weather Data Analysis – Power BI Dashboard
 
 ## 📖 Project Overview
